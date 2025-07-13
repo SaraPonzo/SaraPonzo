@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋, I'm Sara
 
-<!--
-**SaraPonzo/SaraPonzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Italian MSc student in **Financial Risk and Data Analysis**, passionate about statistical modeling data science, and econometrics.
 
-Here are some ideas to get you started:
+🌱 Currently learning and working on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Statistical modeling for risk and volatility forecasting
+- Extreme Value Theory and Panel Data
+- Hidden Markov Models and the EM algorithm
+
+Here you'll find a collection of my academic and personal projects, mostly focused on time series analysis, risk modeling, and statistical inference.
+
+I am always eager to learn, experiment, and collaborate!
+
+📫 How to reach me: [sara.ponzo98@gmail.com](mailto:sara.ponzo98@gmail.com)
+
+## 🔗 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sara-ponzo-457441284/)
+
+## 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/R_logo.svg/768px-R_logo.svg.png" width="40" title="RStan (via R)"/>
+</p>
