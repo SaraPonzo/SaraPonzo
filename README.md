@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Sara
 
-🎓 I'm an Italian MSc student in **Financial Risk and Data Analysis**, passionate about statistical modeling data science, and econometrics.
+🎓 I'm an Italian MSc student in **Financial Risk and Data Analysis**, passionate about statistical modeling, data science, and R programming
 
 🌱 Currently learning and working on:
 
-- Statistical modeling for risk and volatility forecasting
-- Extreme Value Theory and Panel Data
-- Hidden Markov Models and the EM algorithm
+- Statistical modeling for risk and volatility forecasting through GARCH and SVM;
+- Extreme Value Theory and the advantages of Panel Data in GEV estimation;
+- Hidden Markov Models and the EM algorithm for likelihood estimation.
 
 Here you'll find a collection of my academic and personal projects, mostly focused on time series analysis, risk modeling, and statistical inference.
 
