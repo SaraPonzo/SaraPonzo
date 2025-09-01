@@ -6,7 +6,8 @@
 
 - Statistical modeling for risk and volatility forecasting through GARCH and SVM;
 - Extreme Value Theory and the advantages of Panel Data in GEV estimation;
-- Hidden Markov Models and the EM algorithm for likelihood estimation.
+- Hidden Markov Models and the EM algorithm for likelihood estimation;
+- SQL learning.
 
 Here you'll find a collection of my academic and personal projects, mostly focused on time series analysis, risk modeling, and statistical inference.
 
